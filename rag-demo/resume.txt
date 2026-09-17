@@ -1,0 +1,31 @@
+Fatima Mansoor
+
+Associate Blockchain Developer
+
+Skills:
+Node.js
+Express
+Supabase
+PostgreSQL
+MongoDB
+React
+React Native
+Python
+Django
+FastAPI
+PHP
+Solidity
+Foundry
+
+Experience:
+Built and hardened backend systems for OmegaPay, a crypto-to-fiat fintech platform,
+including auth, KYC, transactions, and card issuance APIs.
+Integrated Stripe for subscriptions and Striga for wallets, KYC, and card management.
+Designed database schemas and RPCs in PostgreSQL using Supabase.
+Worked on a blockchain lock-up campaign built on Base, involving Gnosis Safe multisig,
+EIP-712 eligibility permits, and time-weighted reward systems.
+Developed ERC-20 token contracts in Solidity.
+
+Projects:
+OmegaPay - crypto-to-fiat fintech app with virtual and physical card issuance.
+BCT Lock-up Campaign (LTP) - EU utility token lock-up protocol on Base blockchain.
